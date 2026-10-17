@@ -9,7 +9,7 @@ This repository contains the implementation and technical deliverables for the E
 ## Deliverables Summary
 
 * **Technical Report:** [docs/report.odt](docs/report_Robot_Navigation.odt)
-* **Part 1 Video Demo:** [YouTube Video Link (Unlisted)](#)
+* **Part 1 Video Demo:** [YouTube Video Link](https://youtu.be/mP-oDE6w2JI?si=E8Ym89cXrsnyk4Wp)
 
 ---
 
